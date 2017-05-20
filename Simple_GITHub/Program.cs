@@ -10,7 +10,7 @@ namespace Simple_GITHub
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Checking for the GIT attributes");
+            Console.WriteLine("Checking for the GIT attributes..added to changes");
         }
     }
 }
